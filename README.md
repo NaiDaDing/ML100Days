@@ -7,7 +7,7 @@ Day3 : DataFrame & Read and write file
 Day4 : Label Encoding & One Hot Encoding  
 Day5 : Histplot  
 Day6 : Outlier  
-Day7 : Median & Quantile
+Day7 : Median & Quantile 
 Day8 : DataFrame common instructions  
 Day9 : Correlation  
 Day10 : Correlation EDA  
