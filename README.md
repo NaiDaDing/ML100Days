@@ -1,5 +1,4 @@
 # ML100Days
-
 ##Data cleaning and pre-processing  
 Day1 : MAE & MSE  
 Day2 : First EDA  
@@ -17,6 +16,8 @@ Day13 : Discretizing in practise
 Day14 : Subplots  
 Day15 : Heatmap & Grid-plot  
 Day16 : Logistic Regression  
+  
+# Feature Engineering  
 Day17 : Feature Engineering  
 Day18 : Feature Engineering - Type  
 Day19 : Fill nan and Scalers  
