@@ -18,3 +18,4 @@ Day14 : Subplots
 Day15 : Heatmap & Grid-plot  
 Day16 : Logistic Regression  
 Day17 : Feature Engineering  
+Day18 : Feature Engineering - Type  
