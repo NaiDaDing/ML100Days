@@ -21,3 +21,4 @@ Day16 : Logistic Regression
 Day17 : Feature Engineering  
 Day18 : Feature Engineering - Type  
 Day19 : Fill nan and Scalers  
+Day20 : Remove Outliers  
