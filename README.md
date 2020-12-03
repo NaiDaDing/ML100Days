@@ -22,3 +22,4 @@ Day17 : Feature Engineering
 Day18 : Feature Engineering - Type  
 Day19 : Fill nan and Scalers  
 Day20 : Remove Outliers  
+Day21 : Reduce Skewness  
